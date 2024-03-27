@@ -1,6 +1,6 @@
 # FakedIn
 
-Este projeto é baseado no linkedin.
+Este projeto é baseado no linkedin e este projeto foi uma ótima oportunidade para aprimorar minhas habilidades para desenvolvimento web.
 
 # Sobre📃
 
